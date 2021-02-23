@@ -1,7 +1,6 @@
 import React from "react";
 import "./App.css";
 import Header from "./components/header.js";
-import Night from "./components/toggles.js";
 
 function App() {
   return (
