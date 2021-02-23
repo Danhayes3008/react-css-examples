@@ -10,7 +10,6 @@ function App() {
       <p>
         Warning the page may take some time to fully load. Please scroll slowly
       </p>
-      <Night />
     </div>
   );
 }
